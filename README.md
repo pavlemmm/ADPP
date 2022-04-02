@@ -21,11 +21,11 @@
 -   Kako bismo uradili ovu aplikaciju a da ona imaju svoju stvarnu upotrebnu svrhu, morali smo da se najpre upoznamo sa specifičnostima dece sa elementima autizma.
 
 -   **Za njih je karakteristično sledeće:**
-    1.   Najbolje usvajaju preko socijalnih priča izraženih u slikama.
-    2.   Slike treba da budu sa što manje detalja i boja jer im to odvlači ionako rasutu pažnju.
-    3.   Od izuzetnog značaja im je jasna i dosledna primena jednom usvojene strukture dana.
-    4.   Imaju burne reakcije na SVAKU promenu rasporeda. Rutina im je važna.
-    5.   Naloge zadavati vrlo kratko u najviše 2 reči: Ustani , Obuci se, Operi zube, Uzmi torbu, Udji u autobus.
+    1.     Najbolje usvajaju preko socijalnih priča izraženih u slikama.
+    2.     Slike treba da budu sa što manje detalja i boja jer im to odvlači ionako rasutu pažnju.
+    3.     Od izuzetnog značaja im je jasna i dosledna primena jednom usvojene strukture dana.
+    4.     Imaju burne reakcije na SVAKU promenu rasporeda. Rutina im je važna.
+    5.     Naloge zadavati vrlo kratko u najviše 2 reči: Ustani , Obuci se, Operi zube, Uzmi torbu, Udji u autobus.
 
 Ovaj metod se u defektologiji zove **PECS METOD**.
 
