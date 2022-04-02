@@ -70,4 +70,5 @@ Takodje je potrebno i imati Sql Server i izvršiti query koji se nalazi u SQLQue
 -   C# Web Application (ASP.NET)
 -   SQL Server Database
 
-Tim 4-6
+
+<b>Tim 4-6</b>
