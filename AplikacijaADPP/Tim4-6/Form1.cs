@@ -113,55 +113,52 @@ namespace Tim4_6
 				switch (akcija)
 				{
 					case "1":
-						akcije.Add(new Akcija(Properties.Resources.budjenje, "Vreme je za budjenje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "2":
-						akcije.Add(new Akcija(Properties.Resources.zubi, "Vreme je za pranje zuba!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "3":
-						akcije.Add(new Akcija(Properties.Resources.oblacenje, "Vreme je da se obuces!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "4":
-						akcije.Add(new Akcija(Properties.Resources.dorucak, "Vreme je za dorucak!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "5":
-						akcije.Add(new Akcija(Properties.Resources.pakovanje, "Vreme je za pakovanje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "6":
-						akcije.Add(new Akcija(Properties.Resources.polazak, "Vreme je za polazak!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "7":
 						akcije.Add(new Akcija(Properties.Resources.citanje, "Vreme je za ucenje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
-					case "8":
-						akcije.Add(new Akcija(Properties.Resources.uzina, "Vreme je za uzinu!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+					case "2":
+						akcije.Add(new Akcija(Properties.Resources.dorucak, "Vreme je za dorucak!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
-					case "9":
+					case "3":
 						akcije.Add(new Akcija(Properties.Resources.igranje, "Vreme je za igranje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
-					case "10":
+					case "4":
+						akcije.Add(new Akcija(Properties.Resources.budjenje, "Vreme je za budjenje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						break;
+					case "5":
+						akcije.Add(new Akcija(Properties.Resources.kupanje, "Vreme je za kupanje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						break;
+					case "6":
 						akcije.Add(new Akcija(Properties.Resources.muzika, "Vreme je za slusanje muzike!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
+					case "7":
+						akcije.Add(new Akcija(Properties.Resources.oblacenje, "Vreme je da se obuces!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						break;
+					case "8":
+						akcije.Add(new Akcija(Properties.Resources.pakovanje, "Vreme je za pakovanje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						break;
+					case "9":
+						akcije.Add(new Akcija(Properties.Resources.polazak, "Vreme je za polazak!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						break;
+					case "10":
+						akcije.Add(new Akcija(Properties.Resources.rucak, "Vreme je za rucak!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						break;
 					case "11":
-						akcije.Add(new Akcija(Properties.Resources.voznja, "Vreme je za odlazak kuci!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						akcije.Add(new Akcija(Properties.Resources.slobodno, "Slobodno vreme!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
 					case "12":
-						akcije.Add(new Akcija(Properties.Resources.rucak, "Vreme je za rucak!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						akcije.Add(new Akcija(Properties.Resources.spavanje, "Vreme je za spavanje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
 					case "13":
 						akcije.Add(new Akcija(Properties.Resources.toalet, "Vreme je za toalet!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
 					case "14":
-						akcije.Add(new Akcija(Properties.Resources.kupanje, "Vreme je za kupanje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						akcije.Add(new Akcija(Properties.Resources.uzina, "Vreme je za uzinu!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
 					case "15":
-						akcije.Add(new Akcija(Properties.Resources.igranje, "Vreme je za igranje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
+						akcije.Add(new Akcija(Properties.Resources.voznja, "Vreme je za vožnju!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
 					case "16":
 						akcije.Add(new Akcija(Properties.Resources.zubi, "Vreme je za pranje zuba!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
-						break;
-					case "17":
-						akcije.Add(new Akcija(Properties.Resources.spavanje, "Vreme je za spavanje!", TimeSpan.Parse(row["pocVreme"].ToString()), TimeSpan.Parse(row["krajVreme"].ToString())));
 						break;
 				}
 			}
