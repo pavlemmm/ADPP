@@ -21,11 +21,11 @@
 -   Kako bismo uradili ovu aplikaciju a da ona imaju svoju stvarnu upotrebnu svrhu, morali smo da se najpre upoznamo sa specifičnostima dece sa elementima autizma.
 
 -   **Za njih je karakteristično sledeće:**
-    1.          Najbolje usvajaju preko socijalnih priča izraženih u slikama.
-    2.          Slike treba da budu sa što manje detalja i boja jer im to odvlači ionako rasutu pažnju.
-    3.          Od izuzetnog značaja im je jasna i dosledna primena jednom usvojene strukture dana.
-    4.          Imaju burne reakcije na SVAKU promenu rasporeda. Rutina im je važna.
-    5.          Naloge zadavati vrlo kratko u najviše 2 reči: Ustani , Obuci se, Operi zube, Uzmi torbu, Udji u autobus.
+    1.           Najbolje usvajaju preko socijalnih priča izraženih u slikama.
+    2.           Slike treba da budu sa što manje detalja i boja jer im to odvlači ionako rasutu pažnju.
+    3.           Od izuzetnog značaja im je jasna i dosledna primena jednom usvojene strukture dana.
+    4.           Imaju burne reakcije na SVAKU promenu rasporeda. Rutina im je važna.
+    5.           Naloge zadavati vrlo kratko u najviše 2 reči: Ustani , Obuci se, Operi zube, Uzmi torbu, Udji u autobus.
 
 Ovaj metod se u defektologiji zove **PECS METOD**.
 
@@ -59,9 +59,9 @@ Nakon toga dete može slobodno da koristiti aplikaciju i prati svoje dnevne navi
 
 ![App Screenshot](https://raw.githubusercontent.com/pavlemmm/ADPP/master/Tutorijal_u_slikama/Slika5.png)
 
-Sajt je potrebno otvoriti preko .sln dokumenta zbog povezanosti sa bazom podataka.
-Aplikacija se moze otvoriti preko .exe file-a koji se nalazi u Debug folderu aplikacije.
-Takodje je potrebno i imati Sql Server i izvršiti query koji se nalazi u SQLQuery.sql
+Sajt je potrebno otvoriti preko .sln dokumenta zbog povezanosti sa bazom podataka.<br>
+Aplikacija se moze otvoriti preko .exe file-a koji se nalazi u Debug folderu aplikacije.<br>
+Takodje je potrebno i imati Sql Server i izvršiti query koji se nalazi u SQLQuery.sql<br>
 
 ## Tehnologije korišćene za izradu aplikacije
 
