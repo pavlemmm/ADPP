@@ -58,7 +58,11 @@ namespace Tim4_6
 		//Izlaz
 		private void picBoxIzlaz_Click(object sender, EventArgs e)
 		{
-			this.Close();
+			Application.Exit();
+			foreach (Form form in Application.OpenForms)
+			{
+				form.Close();
+			}
 		}
 
 		//Form dragging

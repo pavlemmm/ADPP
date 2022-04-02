@@ -24,7 +24,10 @@ namespace Tim4_6
 		//Izlaz
 		private void picBoxIzlaz_Click(object sender, EventArgs e)
 		{
-			this.Close();
+			if (textBox1.Text != "")
+				this.Close();
+			else
+				MessageBox.Show("Unesite vaš ID");
 		}
 
 		//Form dragging
